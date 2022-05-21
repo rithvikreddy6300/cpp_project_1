@@ -8,6 +8,8 @@
 //     // init_variables();
 // }
 
+
+
 void curr_screen::set_window(sf::RenderWindow* win)
 {
     window=win;
